@@ -70,7 +70,7 @@ Since the library is provided via a C API, we will also discuss why C has been u
 - **.NET:** [BitcoinKernel.NET](https://github.com/janb84/BitcoinKernel.NET)
 
 ### Further Reading
-- [Bitcoin Kernel Project Tracking Issue](https://github.com/bitcoin/bitcoin/issues/24303)
+- [Bitcoin Kernel Project Tracking Issue](https://github.com/bitcoin/bitcoin/issues/27587)
 - [Learn Me a Bitcoin - Nodes](https://learnmeabitcoin.com/beginners/guide/node/)
 
 ## Prerequisites
@@ -79,8 +79,8 @@ Just some basics of Bitcoin and programming languages. We'll be covering everyth
 
 ## How to Participate
 
-1. Join the [Bitshala Discord](https://discord.gg/bitshala)
-2. Check the Issues tab for upcoming session details
+1. Join the [Bitshala Discord](https://discord.gg/atjEPVTdsQ).
+2. Each review topic is detailed in an [Issue](https://github.com/yuvicc/bitcoinkernel-club) - use the comments to post questions and discuss the PR.
 3. Come prepared by reading the linked materials
 4. Join the live session every Thursday at 19:00 IST / 13:30 UTC
 
