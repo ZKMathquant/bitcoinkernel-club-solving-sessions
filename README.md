@@ -39,18 +39,18 @@ Since the library is provided via a C API, we will also discuss why C has been u
 
 | Session | Date | Topic | Discussion | Recording |
 |---------|------|-------|------------|-----------|
-| 1 | Jan 8, 2026 | Introduction to Bitcoinkernel & C API basics | [Link]() | [YouTube]() |
-| 2 | Jan 15, 2026 | Memory management & Logging API | [Link]() | [YouTube]() |
-| 3 | Jan 22, 2026 | Chainstate API | [Link]() | [YouTube]() |
-| 4 | Jan 29, 2026 | Blocks API | [Link]() | [YouTube]() |
-| 5 | TBD | BlockTree API | [Link]() | [YouTube]() |
-| 6 | TBD | Transaction & Script validation | [Link]() | [YouTube]() |
-| 7 | TBD | Completing & testing our bindings | [Link]() | [YouTube]() |
-| 8 | TBD | Java, Go & Python bindings | [Link]() | [YouTube]() |
-| 9 | TBD | PR Review: #33856 & #33822 | [Link]() | [YouTube]() |
-| 10 | TBD | PR Review: #33796 | [Link]() | [YouTube]() |
-| 11 | TBD | PR Review: #33908 | [Link]() | [YouTube]() |
-| 12 | TBD | TBD | [Link]() | [YouTube]() |
+| 1 | Jan 8, 2026 | Introduction to Bitcoinkernel & C API basics | [Link(TBA)]() | [YouTube(TBA)]() |
+| 2 | Jan 15, 2026 | Memory management & Logging API | [Link(TBA)]() | [YouTube(TBA)]() |
+| 3 | Jan 22, 2026 | Chainstate API | [Link(TBA)]() | [YouTube(TBA)]() |
+| 4 | Jan 29, 2026 | Blocks API | [Link(TBA)]() | [YouTube(TBA)]() |
+| 5 | TBD | BlockTree API | [Link(TBA)]() | [YouTube(TBA)]() |
+| 6 | TBD | Transaction & Script validation | [Link(TBA)]() | [YouTube(TBA)]() |
+| 7 | TBD | Completing & testing our bindings | [Link(TBA)]() | [YouTube(TBA)]() |
+| 8 | TBD | Java, Go & Python bindings | [Link(TBA)]() | [YouTube(TBA)]() |
+| 9 | TBD | PR Review: #33856 & #33822 | [Link(TBA)]() | [YouTube(TBA)]() |
+| 10 | TBD | PR Review: #33796 | [Link(TBA)]() | [YouTube(TBA)]() |
+| 11 | TBD | PR Review: #33908 | [Link(TBA)]() | [YouTube(TBA)]() |
+| 12 | TBD | TBD | [Link(TBA)]() | [YouTube(TBA)]() |
 
 ## Key Resources
 
