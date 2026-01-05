@@ -20,6 +20,37 @@ As of January 2026, the first step towards a reusable API was provided by PR [#3
 
 Since the library is provided via a C API, we will also discuss why C has been used for the API. To ease the use of the library in popular programming languages, different language bindings are available. Currently, we have:
 
+## Getting Started
+
+We use Nix to ensure everyone has a consistent development environment with pre-compiled Bitcoin Core and libbitcoinkernel.
+
+### 1. Install [Nix](https://nixos.org/download) 
+```bash
+sh <(curl --proto '=https' --tlsv1.2 -L https://nixos.org/nix/install) --daemon
+```
+
+### 2. Clone this repo
+```bash
+git clone https://github.com/bitshala/bitcoinkernel-club.git
+cd bitcoinkernel-club
+```
+
+### 3. Enter a session shell
+```bash
+# For session 1
+nix develop .#session1
+```
+
+### 4. Complete the exercises
+```bash
+cd sessions/session1
+make
+make run
+```
+
+Edit `src/main.c` and complete the TODOs!
+
+
 ## Club Overview
 
 - **When:** Every Thursday at 19:00 IST / 13:30 UTC
